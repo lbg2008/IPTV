@@ -679,7 +679,7 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 https://rthkvod2022.akamaized.net/mp4/tv/2021/THKCCT2021M06000076.smil/master.m3u8
 #EXTINF:-1 tvg-id="1202" tvg-name="" tvg-logo="" group-title="未分类",台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 tvg-id="1203" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通频道
+#EXTINF:-1 tvg-id="1203" tvg-name="中国交通频道" tvg-logo="https://cdn.320888.xyz/tv-logo/new/zgjt.png" group-title="上海",中国交通频道
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
 #EXTINF:-1 tvg-id="1204" tvg-name="" tvg-logo="" group-title="未分类",点掌+财经
 http://cclive2.aniu.tv/live/anzb.m3u8
