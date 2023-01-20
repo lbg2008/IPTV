@@ -611,10 +611,6 @@ http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-id="1162" tvg-name="" tvg-logo="" group-title="未分类",江苏常州武进区新闻频道
 http://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 tvg-id="1165" tvg-name="" tvg-logo="" group-title="未分类",安徽亳州农村频道
-http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
-#EXTINF:-1 tvg-id="1166" tvg-name="" tvg-logo="" group-title="未分类",安徽亳州涡阳新闻综合
-http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.M3U8
 #EXTINF:-1 tvg-id="1167" tvg-name="" tvg-logo="" group-title="未分类",芜湖新闻综合
 http://live1.wuhubtv.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="1168" tvg-name="" tvg-logo="" group-title="未分类",芜湖生活频道
