@@ -651,18 +651,8 @@ http://stream.hhek.cn/ggpd/sd/live.m3u8
 http://stream.hhek.cn/dyjy/sd/live.m3u8
 #EXTINF:-1 tvg-id="1190" tvg-name="" tvg-logo="" group-title="未分类",山东东营综合频道
 http://stream.hhek.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="1191" tvg-name="" tvg-logo="" group-title="未分类",枣庄教育频道
-http://stream.zzgd.tv/2/sd/live.m3u8
 #EXTINF:-1 tvg-id="1192" tvg-name="" tvg-logo="" group-title="未分类",鹤壁综合频道
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-#EXTINF:-1 tvg-id="1193" tvg-name="" tvg-logo="" group-title="未分类",赵县电视一套
-http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="1194" tvg-name="" tvg-logo="" group-title="未分类",甘肃金昌公共频道
-http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
-#EXTINF:-1 tvg-id="1195" tvg-name="" tvg-logo="" group-title="未分类",甘肃金昌综合频道
-http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
-#EXTINF:-1 tvg-id="1196" tvg-name="" tvg-logo="" group-title="未分类",甘肃银川生活
-http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
 #EXTINF:-1 tvg-id="1197" tvg-name="" tvg-logo="" group-title="未分类",青海海西州综合频道
 http://stream.haixitv.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="1198" tvg-name="" tvg-logo="" group-title="未分类",NHK World
