@@ -591,16 +591,6 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 tvg-id="1351" tvg-name="" tvg-logo="" group-title="未分类",天津西青新闻综合
 http://221.238.209.44:81/hls/live1.m3u8
-#EXTINF:-1 tvg-id="1352" tvg-name="" tvg-logo="" group-title="未分类",福建福州少儿
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-id="1353" tvg-name="" tvg-logo="" group-title="未分类",福建福州生活
-http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-#EXTINF:-1 tvg-id="1354" tvg-name="" tvg-logo="" group-title="未分类",福建福州影视台
-http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 tvg-id="1355" tvg-name="" tvg-logo="" group-title="未分类",福建福州综合
-http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 tvg-id="1356" tvg-name="" tvg-logo="" group-title="未分类",海盐新闻频道
-http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="1357" tvg-name="" tvg-logo="" group-title="未分类",湖南湘潭综合台
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="1358" tvg-name="" tvg-logo="" group-title="未分类",南京新闻综合
@@ -613,28 +603,14 @@ http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="1362" tvg-name="" tvg-logo="" group-title="未分类",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="1154" tvg-name="" tvg-logo="" group-title="未分类",江苏徐州公共
-http://stream1.huaihai.tv/ggpd/playlist.m3u8
-#EXTINF:-1 tvg-id="1155" tvg-name="" tvg-logo="" group-title="未分类",江苏徐州综合
-http://stream1.huaihai.tv/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-id="1156" tvg-name="" tvg-logo="" group-title="未分类",江苏张家港民生
-http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:-1 tvg-id="1157" tvg-name="" tvg-logo="" group-title="未分类",江苏张家港综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 tvg-id="1158" tvg-name="" tvg-logo="" group-title="未分类",靖江新闻HD
-http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="1159" tvg-name="" tvg-logo="" group-title="未分类",靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
-#EXTINF:-1 tvg-id="1160" tvg-name="" tvg-logo="" group-title="未分类",江苏徐州新闻综合
-http://stream1.huaihai.tv/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="1161" tvg-name="" tvg-logo="" group-title="未分类",江苏常州武进区生活频道
 http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-id="1162" tvg-name="" tvg-logo="" group-title="未分类",江苏常州武进区新闻频道
 http://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 tvg-id="1163" tvg-name="" tvg-logo="" group-title="未分类",宿州公共频道
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-#EXTINF:-1 tvg-id="1164" tvg-name="" tvg-logo="" group-title="未分类",宿州科教频道
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:-1 tvg-id="1165" tvg-name="" tvg-logo="" group-title="未分类",安徽亳州农村频道
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
 #EXTINF:-1 tvg-id="1166" tvg-name="" tvg-logo="" group-title="未分类",安徽亳州涡阳新闻综合
@@ -661,24 +637,12 @@ http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 http://lmt.scqstv.com/live1/live1.m3u8
 #EXTINF:-1 tvg-id="1177" tvg-name="" tvg-logo="" group-title="未分类",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 tvg-id="1178" tvg-name="" tvg-logo="" group-title="未分类",赤峰综合频道
-http://vfile.cfrtv.cn/2017/1484/6248/0267/148462480267.ssm/148462480267.m3u8
-#EXTINF:-1 tvg-id="1179" tvg-name="" tvg-logo="" group-title="未分类",晋江电视FHD
-http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="1180" tvg-name="" tvg-logo="" group-title="未分类",三明新闻综合
 http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 tvg-id="1181" tvg-name="" tvg-logo="" group-title="未分类",三明公共频道
 http://stream.smntv.cn/smtv2/sd/live.m3u8
 #EXTINF:-1 tvg-id="1182" tvg-name="" tvg-logo="" group-title="未分类",福建新罗电视一套
 http://stream.lyxltv.com/xltv/sd/live.m3u8
-#EXTINF:-1 tvg-id="1183" tvg-name="" tvg-logo="" group-title="未分类",福建新罗电视二套
-http://stream.lyxltv.com/xinluotv/sd/live.m3u8
-#EXTINF:-1 tvg-id="1184" tvg-name="" tvg-logo="" group-title="未分类",东至影视频道
-http://223.247.33.124:1935/live/yingshi/playlist.m3u8
-#EXTINF:-1 tvg-id="1185" tvg-name="" tvg-logo="" group-title="未分类",东至文化资讯
-http://223.247.33.124:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 tvg-id="1186" tvg-name="" tvg-logo="" group-title="未分类",涡阳新闻综合
-http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
 #EXTINF:-1 tvg-id="1187" tvg-name="" tvg-logo="" group-title="未分类",四川南充蓬安县新闻综合
 http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 #EXTINF:-1 tvg-id="1188" tvg-name="" tvg-logo="" group-title="未分类",山东东营公共频道
