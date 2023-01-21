@@ -561,11 +561,11 @@ https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
 #EXTINF:-1 tvg-id="1325" tvg-name="北京影视" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV影视.png" group-title="北京",北京影视BTV-4
 https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
-#EXTINF:-1 tvg-id="1326" tvg-name="北京财经" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV财经.png" group-title="北京",北京财经BTV-5
+#EXTINF:-1 tvg-id="1326" tvg-name="北京财经" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV财经-1.png" group-title="北京",北京财经BTV-5
 https://live.v1.mk/api/ghyx.php?id=BTVCaiJingHD_6000
-#EXTINF:-1 tvg-id="1328" tvg-name="北京体育" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV体育.png" group-title="北京",北京体育休闲BTV-6
+#EXTINF:-1 tvg-id="1328" tvg-name="北京体育" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV体育-1.png" group-title="北京",北京体育休闲BTV-6
 https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
-#EXTINF:-1 tvg-id="1329" tvg-name="北京生活" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV生活.png" group-title="北京",北京生活BTV-7
+#EXTINF:-1 tvg-id="1329" tvg-name="北京生活" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV生活-1.png" group-title="北京",北京生活BTV-7
 https://live.v1.mk/api/ghyx.php?id=BTVShengHuoHD_6000
 #EXTINF:-1 tvg-id="1331" tvg-name="北京青年" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV青年.png" group-title="北京",北京青年BTV-8
 https://live.v1.mk/api/ghyx.php?id=BTVQingNianHD_6000
