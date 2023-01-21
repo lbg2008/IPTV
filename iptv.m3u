@@ -609,7 +609,7 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 tvg-id="1351" tvg-name="" tvg-logo="" group-title="未分类",天津西青新闻综合
 http://221.238.209.44:81/hls/live1.m3u8
-#EXTINF:-1 tvg-id="1357" tvg-name="" tvg-logo="" group-title="未分类",湖南湘潭综合台
+#EXTINF:-1 tvg-id="1357" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/XIANGTAN.png" group-title="未分类",湖南湘潭综合台
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="1358" tvg-name="" tvg-logo="" group-title="未分类",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
