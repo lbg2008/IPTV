@@ -571,8 +571,6 @@ https://live.v1.mk/api/ghyx.php?id=BTVShengHuoHD_6000
 https://live.v1.mk/api/ghyx.php?id=BTVQingNianHD_6000
 #EXTINF:-1 tvg-id="1333" tvg-name="北京新闻" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BTV新闻.png" group-title="北京",北京新闻BTV-9
 https://live.v1.mk/api/ghyx.php?id=BTV9HD_6000
-#EXTINF:-1 tvg-id="1150" tvg-name="北京纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/btvjs.png" group-title="北京",北京纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="1340" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/zjws/浙江新闻.png" group-title="浙江",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="1341" tvg-name="浙江国际" tvg-logo="https://cdn.320888.xyz/tv-logo/zjws/浙江国际.png" group-title="浙江",浙江国际
