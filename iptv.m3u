@@ -729,11 +729,11 @@ http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshij
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 #EXTINF:-1 tvg-id="1336" tvg-name="" tvg-logo="" group-title="未分类", 韩国EBS第二频道
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 tvg-id="1337" tvg-name="" tvg-logo="" group-title="未分类", f时尚
+#EXTINF:-1 tvg-id="1337" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/faguoshishang.png" group-title="未分类", 法国时尚台
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
 #EXTINF:-1 tvg-id="1338" tvg-name="" tvg-logo="" group-title="未分类", 印尼_TVRIKanal3
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?zshijd
-#EXTINF:-1 tvg-id="1366" tvg-name="" tvg-logo="" group-title="未分类", 半岛新闻频道
+#EXTINF:-1 tvg-id="1366" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/aljazeera.png" group-title="未分类", 半岛新闻频道
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="1368" tvg-name="" tvg-logo="" group-title="未分类", 俄罗斯IGITV
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
