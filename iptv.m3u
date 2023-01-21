@@ -701,15 +701,15 @@ https://live.ntdtv.com/sflive990/playlist.m3u8
 https://live.ntdtv.com/htlive480/playlist.m3u8
 #EXTINF:-1 tvg-id="1213" tvg-name="" tvg-logo="" group-title="未分类",新唐人亚太台
 https://live.ntdtv.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-id="1214" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱一台
+#EXTINF:-1 tvg-id="1214" tvg-name="大爱一台" tvg-logo="https://cdn.320888.xyz/tv-logo/new/daai.png" group-title="港澳台",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="1215" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="港澳台",大爱二台
+#EXTINF:-1 tvg-id="1215" tvg-name="大爱二台" tvg-logo="https://cdn.320888.xyz/tv-logo/new/daai2.png" group-title="港澳台",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="1216" tvg-name="生命频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png" group-title="港澳台",生命电视台
+#EXTINF:-1 tvg-id="1216" tvg-name="生命频道" tvg-logo="https://cdn.320888.xyz/tv-logo/new/shengming.png" group-title="港澳台",生命电视台
 http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-#EXTINF:-1 tvg-id="1217" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BudddhaCompassionTV.png" group-title="港澳台",佛卫慈悲台
+#EXTINF:-1 tvg-id="1217" tvg-logo="https://cdn.320888.xyz/tv-logo/new/BudddhaCompassionTV.png" group-title="港澳台",佛卫慈悲台
 https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8
-#EXTINF:-1 tvg-id="1218" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="港澳台",唯心+电视
+#EXTINF:-1 tvg-id="1218" tvg-logo="https://cdn.320888.xyz/tv-logo/new/weixin.png" group-title="港澳台",唯心+电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="1219" tvg-logo="" group-title="未分类",GoodTV 真情部落
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
