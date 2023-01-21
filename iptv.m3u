@@ -669,7 +669,7 @@ http://stream.hhek.cn/xwzh/sd/live.m3u8
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="1197" tvg-name="" tvg-logo="" group-title="未分类",青海海西州综合频道
 http://stream.haixitv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="1198" tvg-name="" tvg-logo="" group-title="未分类",NHK World
+#EXTINF:-1 tvg-id="1198" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/NHKWorld-jp.png" group-title="未分类",NHK World
 https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #EXTINF:-1 tvg-id="1199" tvg-name="" tvg-logo="" group-title="未分类",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
