@@ -609,15 +609,15 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1 tvg-id="1357" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/XIANGTAN.png" group-title="未分类",湖南湘潭综合台
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="1358" tvg-name="" tvg-logo="" group-title="未分类",南京新闻综合
+#EXTINF:-1 tvg-id="1358" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/njxwzh.jpg" group-title="未分类",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="1359" tvg-name="" tvg-logo="" group-title="未分类",南京生活
+#EXTINF:-1 tvg-id="1359" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/njshpd.jpg" group-title="未分类",南京生活
 http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="1360" tvg-name="" tvg-logo="" group-title="未分类",南京娱乐
+#EXTINF:-1 tvg-id="1360" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/njyl.jpg" group-title="未分类",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="1361" tvg-name="" tvg-logo="" group-title="未分类",南京十八
+#EXTINF:-1 tvg-id="1361" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/njsbpd.jpg" group-title="未分类",南京十八
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="1362" tvg-name="" tvg-logo="" group-title="未分类",南京少儿
+#EXTINF:-1 tvg-id="1362" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/njsepd.jpg" group-title="未分类",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="1157" tvg-name="" tvg-logo="" group-title="未分类",江苏张家港综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
