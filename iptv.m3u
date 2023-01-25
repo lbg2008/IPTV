@@ -635,15 +635,15 @@ http://live1.wuhubtv.com/channel2/sd/live.m3u8
 http://live1.wuhubtv.com/channel3/sd/live.m3u8
 #EXTINF:-1 tvg-id="1170" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/whjy.jpg" group-title="未分类",芜湖教育频道
 http://live1.wuhubtv.com/channel4/sd/live.m3u8
-#EXTINF:-1 tvg-id="1171" tvg-name="" tvg-logo="" group-title="未分类",陕西西安新闻综合
+#EXTINF:-1 tvg-id="1171" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/xatv1.jpg" group-title="未分类",陕西西安新闻综合
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 tvg-id="1172" tvg-name="" tvg-logo="" group-title="未分类",陕西西安商务资讯
-http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-#EXTINF:-1 tvg-id="1173" tvg-name="" tvg-logo="" group-title="未分类",陕西西安影视频道
-http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-id="1174" tvg-name="" tvg-logo="" group-title="未分类",陕西西安都市台
+#EXTINF:-1 tvg-id="1174" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/xatv2.jpg" group-title="未分类",陕西西安都市台
 http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="1175" tvg-name="" tvg-logo="" group-title="未分类",陕西西安丝路台
+#EXTINF:-1 tvg-id="1172" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/xatv3.jpg" group-title="未分类",陕西西安商务资讯
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1 tvg-id="1173" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/xatv4.jpg" group-title="未分类",陕西西安影视频道
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 tvg-id="1175" tvg-name="" tvg-logo="https://cdn.320888.xyz/tv-logo/new/xatvsl.jpg" group-title="未分类",陕西西安丝路台
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 #EXTINF:-1 tvg-id="1176" tvg-name="" tvg-logo="" group-title="未分类",青海综合频道
 http://lmt.scqstv.com/live1/live1.m3u8
