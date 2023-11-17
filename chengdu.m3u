@@ -31,12 +31,8 @@ http://192.168.2.2:4012/rtp/239.93.0.66:5140
 http://192.168.2.2:4012/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="916" tvg-name="CCTV15" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/15.png" group-title="央视",CCTV-15
 http://192.168.2.2:4012/rtp/239.93.0.103:5140
-#EXTINF:-1 tvg-id="917" tvg-name="CCTV16" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/16.png" group-title="央视",CCTV-16
-http://192.168.2.2:4012/rtp/239.93.42.53:5140
 #EXTINF:-1 tvg-id="918" tvg-name="CCTV17" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/17.png" group-title="央视",CCTV-17
 http://192.168.2.2:4012/rtp/239.93.0.92:5140
-#EXTINF:-1 tvg-id="919" tvg-name="CCTV8K" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/cctv8k.png" group-title="央视",CCTV8K
-http://192.168.2.2:4012/rtp/239.93.42.61:5140
 #EXTINF:-1 tvg-id="1084" tvg-name="CGTN英语" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/cgtn-e.png" group-title="央视",CGTN英语
 http://192.168.2.2:4012/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="1085" tvg-name="CGTN西语" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/cgtn-s.png" group-title="央视",CGTN西班牙语
@@ -115,7 +111,7 @@ http://192.168.2.2:4012/rtp/239.93.0.80:5140
 http://192.168.2.2:4012/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="1053" tvg-name="三沙卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/new/sansha.png" group-title="卫视",三沙卫视
 http://192.168.2.2:4012/rtp/239.93.42.58:5140
-#EXTINF:-1 tvg-id="1239" tvg-name="yb3ws" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/1.png" group-title="卫视",延边卫视
+#EXTINF:-1 tvg-id="1239" tvg-name="延边卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/1.png" group-title="卫视",延边卫视
 http://192.168.2.2:4012/rtp/239.93.0.249:5140
 #EXTINF:-1 tvg-id="1054" tvg-name="山东教育卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/new/sdjy.jpeg" group-title="山东",山东教育卫视
 http://192.168.2.2:4012/rtp/239.93.1.196:5140
@@ -173,10 +169,8 @@ http://192.168.2.2:4012/rtp/239.93.0.113:5140
 http://192.168.2.2:4012/rtp/239.93.0.133:5140
 #EXTINF:-1 tvg-id="1082" tvg-name="爱上4K" tvg-logo="https://cdn.320888.xyz/tv-logo/as4k.png" group-title="四川",爱上4K
 http://192.168.2.2:4012/rtp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="1248" tvg-name="bstvhdsc3" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/3.png" group-title="央视",BestTV-4K
+#EXTINF:-1 tvg-id="1248" tvg-name="BestTV-4K" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/3.png" group-title="央视",BestTV-4K
 http://192.168.2.2:4012/rtp/239.93.42.75:5140
-#EXTINF:-1 tvg-id="1139" tvg-name="4K超高清电影" tvg-logo="https://cdn.320888.xyz/tv-logo/new/4kcgqdy.png" group-title="四川",4K超高清电影
-http://192.168.2.2:4012/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="1140" tvg-name="4K乐享超清" tvg-logo="https://cdn.320888.xyz/tv-logo/new/4klx.png" group-title="四川",4K乐享超清
 http://192.168.2.2:4012/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="1141" tvg-name="亲子趣学4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/myqz.jpeg" group-title="四川",亲子趣学4K
@@ -257,9 +251,9 @@ http://192.168.2.2:4012/rtp/239.93.0.116:9136
 http://192.168.2.2:4012/rtp/239.93.0.235:1282
 #EXTINF:-1 tvg-id="1127" tvg-name="汽车频道" tvg-logo="https://cdn.320888.xyz/tv-logo/qcpd.png" group-title="地方",汽车频道
 http://192.168.2.2:4012/rtp/239.93.0.117:129
-#EXTINF:-1 tvg-id="1249" tvg-name="bstvhd2sc" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/4.png" group-title="央视",BestTV-HD
+#EXTINF:-1 tvg-id="1249" tvg-name="BestTV-HD" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/4.png" group-title="央视",BestTV-HD
 http://192.168.2.2:4012/rtp/239.93.1.253:8016
-#EXTINF:-1 tvg-id="1251" tvg-name="ly2pd" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/6.png" group-title="央视",梨园频道-HD
+#EXTINF:-1 tvg-id="1251" tvg-name="梨园频道-HD" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/6.png" group-title="央视",梨园频道-HD
 http://192.168.2.2:4012/rtp/239.93.1.195:5140
 #EXTINF:-1 tvg-id="1128" tvg-name="星空精选" tvg-logo="https://cdn.320888.xyz/tv-logo/panda/7.png" group-title="四川",星空精选
 http://192.168.2.2:4012/rtp/239.93.1.171:5140
@@ -273,6 +267,8 @@ http://192.168.2.2:4012/rtp/239.93.1.187:5140
 http://192.168.2.2:4012/rtp/239.93.42.20:5140
 #EXTINF:-1 tvg-id="1133" tvg-name="东方财经" tvg-logo="https://cdn.320888.xyz/tv-logo/dfcj.png" group-title="上海",东方财经
 http://192.168.2.2:4012/rtp/239.93.1.165:5140
+#EXTINF:-1 tvg-id="1074" tvg-name="大爱四川" tvg-logo="https://cdn.320888.xyz/tv-logo/new/dasc.jpeg" group-title="四川",大爱四川
+http://192.168.2.2:4012/rtp/239.93.1.110:5140
 #EXTINF:-1 tvg-id="1136" tvg-name="大爱旅游" tvg-logo="https://cdn.320888.xyz/tv-logo/daly.png" group-title="四川",大爱旅游
 http://192.168.2.2:4012/rtp/239.93.42.70:5140
 #EXTINF:-1 tvg-id="1137" tvg-name="大爱生活" tvg-logo="https://cdn.320888.xyz/tv-logo/dash.png" group-title="四川",大爱生活
@@ -353,21 +349,5 @@ http://192.168.2.2:4012/rtp/239.93.1.177:5140
 http://192.168.2.2:4012/rtp/239.93.1.175:5140
 #EXTINF:-1 tvg-id="1408" tvg-name="" tvg-logo="" group-title="四川",红色经典
 http://192.168.2.2:4012/rtp/239.93.1.176:5140
-#EXTINF:-1 tvg-id="1225" tvg-name="重庆新闻" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/cqxw.jpeg" group-title="重庆",重庆新闻
-http://heliang614.isove.top:7777/rtp/235.254.197.199:7980
-#EXTINF:-1 tvg-id="1226" tvg-name="重庆科教" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/cqkj.jpeg" group-title="重庆",重庆科教
-http://heliang614.isove.top:7777/rtp/235.254.197.111:7980
-#EXTINF:-1 tvg-id="1301" tvg-name="重庆影视" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/cqys.png" group-title="重庆",重庆影视
-http://heliang614.isove.top:7777/rtp/235.254.197.105:7980
-#EXTINF:-1 tvg-id="1302" tvg-name="重庆文体娱乐" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/wtyl.jpg" group-title="重庆",重庆文体娱乐
-http://heliang614.isove.top:7777/rtp/235.254.197.108:7980
-#EXTINF:-1 tvg-id="1303" tvg-name="重庆少儿" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/se.jpeg" group-title="重庆",重庆少儿高清
-http://heliang614.isove.top:7777/rtp/235.254.197.110:7980
-#EXTINF:-1 tvg-id="1304" tvg-name="重庆时尚生活" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/sssh.jpeg" group-title="重庆",重庆时尚生活
-http://heliang614.isove.top:7777/rtp/235.254.197.107:7980
-#EXTINF:-1 tvg-id="1374" tvg-name="重庆社会与法" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/shyf.jpeg" group-title="重庆",重庆社会与法
-http://heliang614.isove.top:7777/rtp/235.254.197.106:7980
 #EXTINF:-1 tvg-id="1375" tvg-name="重庆汽摩" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/qm.png" group-title="重庆",重庆汽摩
-http://heliang614.isove.top:7777/rtp/235.254.197.117:7980
-#EXTINF:-1 tvg-id="1305" tvg-name="重庆新农村" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/xnc.jpg" group-title="重庆",重庆新农村
-http://heliang614.isove.top:7777/rtp/235.254.197.109:7980
+http://192.168.2.2:4012/rtp/239.93.0.62:5140
