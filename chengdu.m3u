@@ -245,8 +245,6 @@ http://192.168.2.2:4012/rtp/239.93.0.215:9132
 http://192.168.2.2:4012/rtp/239.93.0.116:9136
 #EXTINF:-1 tvg-id="1126" tvg-name="传奇" tvg-logo="https://cdn.320888.xyz/tv-logo/chuanqi.png" group-title="地方",传奇
 http://192.168.2.2:4012/rtp/239.93.0.235:1282
-#EXTINF:-1 tvg-id="1127" tvg-name="汽车频道" tvg-logo="https://cdn.320888.xyz/tv-logo/qcpd.png" group-title="地方",汽车频道
-http://192.168.2.2:4012/rtp/239.93.0.117:129
 #EXTINF:-1 tvg-id="1249" tvg-name="BestTV-HD" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/4.png" group-title="央视",BestTV-HD
 http://192.168.2.2:4012/rtp/239.93.1.253:8016
 #EXTINF:-1 tvg-id="1251" tvg-name="梨园频道-HD" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/6.png" group-title="央视",梨园频道-HD
@@ -347,3 +345,13 @@ http://192.168.2.2:4012/rtp/239.93.1.175:5140
 http://192.168.2.2:4012/rtp/239.93.1.176:5140
 #EXTINF:-1 tvg-id="1375" tvg-name="重庆汽摩" tvg-logo="https://cdn.320888.xyz/tv-logo/cqtv/qm.png" group-title="重庆",重庆汽摩
 http://192.168.2.2:4012/rtp/239.93.0.62:5140
+#EXTINF:-1 tvg-id="1252" tvg-name="" tvg-logo="" group-title="四川",星光院线专区
+http://192.168.2.2:4012/rtp/239.93.1.176:5140
+#EXTINF:-1 tvg-id="1253" tvg-name="" tvg-logo="" group-title="四川",全球大片专区
+http://192.168.2.2:4012/rtp/239.93.0.105:5140
+#EXTINF:-1 tvg-id="1254" tvg-name="" tvg-logo="" group-title="四川",热门剧场专区
+http://192.168.2.2:4012/rtp/239.93.0.140:5140
+#EXTINF:-1 tvg-id="1255" tvg-name="" tvg-logo="" group-title="四川",港剧风云专区
+http://192.168.2.2:4012/rtp/239.93.0.143:5140
+#EXTINF:-1 tvg-id="1256" tvg-name="" tvg-logo="" group-title="四川",谍战剧场专区
+http://192.168.2.2:4012/rtp/239.93.0.95:5140
