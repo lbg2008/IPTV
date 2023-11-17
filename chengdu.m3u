@@ -32,7 +32,7 @@ http://192.168.2.2:4012/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="916" tvg-name="CCTV15" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/15.png" group-title="央视",CCTV-15
 http://192.168.2.2:4012/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="917" tvg-name="CCTV16" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/16.png" group-title="央视",CCTV-16
-http://192.168.2.2:4012/rtp/239.93.42.54:5140
+http://192.168.2.2:4012/rtp/239.93.42.53:5140
 #EXTINF:-1 tvg-id="918" tvg-name="CCTV17" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/17.png" group-title="央视",CCTV-17
 http://192.168.2.2:4012/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="919" tvg-name="CCTV8K" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/cctv8k.png" group-title="央视",CCTV8K
@@ -80,9 +80,9 @@ http://192.168.2.2:4012/rtp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="1035" tvg-name="河北卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/hebei.png" group-title="卫视",河北卫视
 http://192.168.2.2:4012/rtp/239.93.0.132:5140
 #EXTINF:-1 tvg-id="1036" tvg-name="安徽卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/ahws.png" group-title="卫视",安徽卫视
-http://192.168.2.2:4012/rtp/239.93.0.113:5140
+http://192.168.2.2:4012/rtp/239.93.1.106:5140
 #EXTINF:-1 tvg-id="1037" tvg-name="辽宁卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/lnws.png" group-title="卫视",辽宁卫视
-http://192.168.2.2:4012/rtp/239.93.0.114:5140
+http://192.168.2.2:4012/rtp/239.93.1.108:5140
 #EXTINF:-1 tvg-id="1038" tvg-name="广西卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/gxws.png" group-title="卫视",广西卫视
 http://192.168.2.2:4012/rtp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="1039" tvg-name="吉林卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/jlws.png" group-title="卫视",吉林卫视
@@ -92,7 +92,7 @@ http://192.168.2.2:4012/rtp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="1041" tvg-name="河南卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/henan.png" group-title="卫视",河南卫视
 http://192.168.2.2:4012/rtp/239.93.42.45:5140
 #EXTINF:-1 tvg-id="1042" tvg-name="云南卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/ynws.png" group-title="卫视",云南卫视
-http://192.168.2.2:4012/rtp/239.93.0.174:5140
+http://192.168.2.2:4012/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="1043" tvg-name="陕西卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/sxws.png" group-title="卫视",陕西卫视
 http://192.168.2.2:4012/rtp/239.93.0.176:5140
 #EXTINF:-1 tvg-id="1044" tvg-name="山西卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/shanxi.png" group-title="卫视",山西卫视
