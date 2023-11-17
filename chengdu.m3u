@@ -153,12 +153,14 @@ http://192.168.2.2:4012/rtp/239.93.0.214:5140
 http://192.168.2.2:4012/rtp/239.93.0.126:5140
 #EXTINF:-1 tvg-id="1073" tvg-name="熊猫频道" tvg-logo="https://cdn.320888.xyz/tv-logo/panda/xmpd.png" group-title="四川",熊猫频道
 http://192.168.2.2:4012/rtp/239.93.0.211:9148
-#EXTINF:-1 tvg-id="1250" tvg-name="bstvhd4sc" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/5.png" group-title="央视",I乐山
+#EXTINF:-1 tvg-id="1250" tvg-name="I乐山" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/5.png" group-title="四川",I乐山
 http://192.168.2.2:4012/rtp/239.93.1.55:8302
 #EXTINF:-1 tvg-id="1076" tvg-name="上海纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/shjs.png" group-title="上海",上海纪实
 http://192.168.2.2:4012/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="1077" tvg-name="金鹰纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/jyjs.png" group-title="湖南",金鹰纪实
 http://192.168.2.2:4012/rtp/239.93.0.130:5140
+#EXTINF:-1 tvg-id="1151" tvg-name="中国交通" tvg-logo="https://cdn.320888.xyz/tv-logo/zgjt.png" group-title="卫视",中国交通
+http://192.168.2.2:4012/rtp/239.93.0.142:5140
 #EXTINF:-1 tvg-id="1079" tvg-name="中国教育1台" tvg-logo="https://cdn.320888.xyz/tv-logo/cetv-1.png" group-title="卫视",中国教育1台
 http://192.168.2.2:4012/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="1080" tvg-name="中国教育2台" tvg-logo="https://cdn.320888.xyz/tv-logo/new/cetv2.png" group-title="地方",中国教育2台
@@ -195,10 +197,6 @@ http://192.168.2.2:4012/rtp/239.93.0.21:1251
 http://192.168.2.2:4012/rtp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="1094" tvg-name="每日购物" tvg-logo="https://cdn.320888.xyz/tv-logo/cdtv/8.png" group-title="四川",CDTV-8每日购物
 http://192.168.2.2:4012/rtp/239.93.0.22:1252
-#EXTINF:-1 tvg-id="1095" tvg-name="成都体育" tvg-logo="https://cdn.320888.xyz/tv-logo/new/dypd.jpeg" group-title="四川",成都体育
-http://192.168.2.2:4012/rtp/239.93.0.224:1281
-#EXTINF:-1 tvg-id="1096" tvg-name="资讯新干线" tvg-logo="https://cdn.320888.xyz/tv-logo/cdtv/zxxgx.png" group-title="四川",资讯新干线
-http://192.168.2.2:4012/rtp/239.93.0.236:1283
 #EXTINF:-1 tvg-id="1097" tvg-name="蓉城先锋" tvg-logo="https://cdn.320888.xyz/tv-logo/cdtv/rcxf.png" group-title="四川",蓉城先锋
 http://192.168.2.2:4012/rtp/239.93.0.91:2101
 #EXTINF:-1 tvg-id="1104" tvg-name="卡酷动画" tvg-logo="https://cdn.320888.xyz/tv-logo/btvkk.png" group-title="卫视",卡酷动画
