@@ -153,8 +153,6 @@ http://192.168.2.2:4012/rtp/239.93.0.214:5140
 http://192.168.2.2:4012/rtp/239.93.0.126:5140
 #EXTINF:-1 tvg-id="1073" tvg-name="熊猫频道" tvg-logo="https://cdn.320888.xyz/tv-logo/panda/xmpd.png" group-title="四川",熊猫频道
 http://192.168.2.2:4012/rtp/239.93.0.211:9148
-#EXTINF:-1 tvg-id="1074" tvg-name="大爱四川" tvg-logo="https://cdn.320888.xyz/tv-logo/new/dasc.jpeg" group-title="四川",大爱四川
-http://192.168.2.2:4012/rtp/239.93.1.110:5140
 #EXTINF:-1 tvg-id="1250" tvg-name="bstvhd4sc" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/5.png" group-title="央视",I乐山
 http://192.168.2.2:4012/rtp/239.93.1.55:8302
 #EXTINF:-1 tvg-id="1076" tvg-name="上海纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/shjs.png" group-title="上海",上海纪实
