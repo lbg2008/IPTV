@@ -108,7 +108,7 @@ http://192.168.2.2:4012/rtp/239.93.0.82:5140
 #EXTINF:-1 tvg-id="1050" tvg-name="兵团卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/btws.png" group-title="卫视",兵团卫视
 http://192.168.2.2:4012/rtp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="1051" tvg-name="海南卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/hainan.png" group-title="卫视",海南卫视
-http://192.168.2.2:4012/rtp/239.93.0.80:5140
+http://192.168.2.2:4012/rtp/239.93.0.90:5140
 #EXTINF:-1 tvg-id="1052" tvg-name="厦门卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/new/xmws.png" group-title="卫视",厦门卫视
 http://192.168.2.2:4012/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="1053" tvg-name="三沙卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/new/sansha.png" group-title="卫视",三沙卫视
@@ -168,11 +168,11 @@ http://192.168.2.2:4012/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="1080" tvg-name="中国教育2台" tvg-logo="https://cdn.320888.xyz/tv-logo/new/cetv2.png" group-title="地方",中国教育2台
 http://192.168.2.2:4012/rtp/239.93.0.113:5140
 #EXTINF:-1 tvg-id="1081" tvg-name="中国教育4台" tvg-logo="https://cdn.320888.xyz/tv-logo/cetv-4.png" group-title="地方",中国教育4台
-http://192.168.2.2:4012/rtp/239.93.0.133:5140
+http://192.168.2.2:4012/rtp/239.93.0.50:5140
 #EXTINF:-1 tvg-id="1082" tvg-name="爱上4K" tvg-logo="https://cdn.320888.xyz/tv-logo/as4k.png" group-title="四川",爱上4K
 http://192.168.2.2:4012/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="1248" tvg-name="BestTV-4K" tvg-logo="https://cdn.320888.xyz/tv-logo/20231115/3.png" group-title="央视",BestTV-4K
-http://192.168.2.2:4012/rtp/239.93.42.75:5140
+http://192.168.2.2:4012/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="1140" tvg-name="4K乐享超清" tvg-logo="https://cdn.320888.xyz/tv-logo/new/4klx.png" group-title="四川",4K乐享超清
 http://192.168.2.2:4012/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="1141" tvg-name="亲子趣学4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/myqz.jpeg" group-title="四川",亲子趣学4K
