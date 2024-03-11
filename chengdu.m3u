@@ -33,6 +33,8 @@ http://192.168.2.2:4012/rtp/239.93.1.29:6000
 http://192.168.2.2:4012/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="918" tvg-name="CCTV17" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/17.png" group-title="央视",CCTV-17
 http://192.168.2.2:4012/rtp/239.93.0.92:5140
+#EXTINF:-1 tvg-id="919" tvg-name="CCTV4K" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/cctv4k.png" group-title="央视",CCTV-4K
+http://192.168.2.2:4012/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="1084" tvg-name="CGTN英语" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/cgtn-e.png" group-title="央视",CGTN英语
 http://192.168.2.2:4012/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="1085" tvg-name="CGTN西语" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/cgtn-s.png" group-title="央视",CGTN西班牙语
