@@ -4,7 +4,7 @@ http://192.168.2.2:4012/rtp/239.93.0.58:5140
 #EXTINF:-1 tvg-id="902" tvg-name="CCTV2" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/2.png" group-title="央视",CCTV-2
 http://192.168.2.2:4012/rtp/239.93.1.23:6000
 #EXTINF:-1 tvg-id="903" tvg-name="CCTV3" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/3.png" group-title="央视",CCTV-3
-http://192.168.2.2:4012/rtp/239.93.1.11:2223
+http://192.168.2.2:4012/rtp/239.93.0.109:5140
 #EXTINF:-1 tvg-id="904" tvg-name="CCTV4" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/4.png" group-title="央视",CCTV-4
 http://192.168.2.2:4012/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="905" tvg-name="CCTV5" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/5.png" group-title="央视",CCTV-5
@@ -12,7 +12,7 @@ http://192.168.2.2:4012/rtp/239.93.42.37:5140
 #EXTINF:-1 tvg-id="906" tvg-name="CCTV-5P" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/5+.png" group-title="央视",CCTV-5P
 http://192.168.2.2:4012/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="907" tvg-name="CCTV6" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/6.png" group-title="央视",CCTV-6
-http://192.168.2.2:4012/rtp/239.93.1.13:2226
+http://192.168.2.2:4012/rtp/239.93.42.38:5140
 #EXTINF:-1 tvg-id="908" tvg-name="CCTV7" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/7.png" group-title="央视",CCTV-7
 http://192.168.2.2:4012/rtp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="909" tvg-name="CCTV8" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/8.png" group-title="央视",CCTV-8
