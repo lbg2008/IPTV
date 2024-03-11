@@ -92,19 +92,19 @@ http://192.168.2.2:4012/rtp/239.93.42.45:5140
 #EXTINF:-1 tvg-id="1042" tvg-name="云南卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/ynws.png" group-title="卫视",云南卫视
 http://192.168.2.2:4012/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="1043" tvg-name="陕西卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/sxws.png" group-title="卫视",陕西卫视
-http://192.168.2.2:4012/rtp/239.93.0.176:5140
+http://192.168.2.2:4012/rtp/239.93.0.125:5140
 #EXTINF:-1 tvg-id="1044" tvg-name="山西卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/shanxi.png" group-title="卫视",山西卫视
-http://192.168.2.2:4012/rtp/239.93.0.6:5140
+http://192.168.2.2:4012/rtp/239.93.0.127:5140
 #EXTINF:-1 tvg-id="1045" tvg-name="内蒙古卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/nmgws.png" group-title="卫视",内蒙古卫视
-http://192.168.2.2:4012/rtp/239.93.0.8:5140
+http://192.168.2.2:4012/rtp/239.93.0.87:5140
 #EXTINF:-1 tvg-id="1046" tvg-name="青海卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/qhws.png" group-title="卫视",青海卫视
-http://192.168.2.2:4012/rtp/239.93.0.192:5140
+http://192.168.2.2:4012/rtp/239.93.0.85:5140
 #EXTINF:-1 tvg-id="1047" tvg-name="宁夏卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/nxws.png" group-title="卫视",宁夏卫视
-http://192.168.2.2:4012/rtp/239.93.0.247:5140
+http://192.168.2.2:4012/rtp/239.93.0.74:5140
 #EXTINF:-1 tvg-id="1048" tvg-name="西藏卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/xzws.png" group-title="卫视",西藏卫视
-http://192.168.2.2:4012/rtp/239.93.0.175:5140
+http://192.168.2.2:4012/rtp/239.93.0.83:5140
 #EXTINF:-1 tvg-id="1049" tvg-name="新疆卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/xjws.png" group-title="卫视",新疆卫视
-http://192.168.2.2:4012/rtp/239.93.0.194:5140
+http://192.168.2.2:4012/rtp/239.93.0.82:5140
 #EXTINF:-1 tvg-id="1050" tvg-name="兵团卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/btws.png" group-title="卫视",兵团卫视
 http://192.168.2.2:4012/rtp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="1051" tvg-name="海南卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/hainan.png" group-title="卫视",海南卫视
