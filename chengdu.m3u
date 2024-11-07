@@ -357,3 +357,7 @@ http://192.168.2.2:4012/rtp/239.93.0.140:5140
 http://192.168.2.2:4012/rtp/239.93.0.143:5140
 #EXTINF:-1 tvg-id="1256" tvg-name="" tvg-logo="" group-title="四川",谍战剧场专区
 http://192.168.2.2:4012/rtp/239.93.0.95:5140
+#EXTINF:-1 tvg-id="1417" tvg-name="" tvg-logo="" group-title="青海",安多卫视
+http://192.168.2.2:4012/rtp/239.93.0.234:5140
+#EXTINF:-1 tvg-id="1000" tvg-name="" tvg-logo="" group-title="北京",北京纪实科教
+http://192.168.2.2:4012/rtp/239.93.0.141:5140
