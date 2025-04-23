@@ -355,7 +355,7 @@ http://192.168.2.2:4012/rtp/239.93.0.105:5140
 http://192.168.2.2:4012/rtp/239.93.0.140:5140
 #EXTINF:-1 tvg-id="1255" tvg-name="" tvg-logo="" group-title="四川",港剧风云专区
 http://192.168.2.2:4012/rtp/239.93.0.143:5140
-#EXTINF:-1 tvg-id="1256" tvg-name="" tvg-logo="" group-title="四川",谍战1剧场专区
+#EXTINF:-1 tvg-id="1256" tvg-name="" tvg-logo="" group-title="四川",谍战剧场专区
 http://192.168.2.2:4012/rtp/239.93.0.95:5140
 #EXTINF:-1 tvg-id="1417" tvg-name="" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/adws.jpeg" group-title="青海",安多卫视
 http://192.168.2.2:4012/rtp/239.93.0.234:5140
