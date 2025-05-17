@@ -1,0 +1,288 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="901" tvg-name="CCTV1" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/1.png" group-title="央视",CCTV-1
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
+
+#EXTINF:-1 tvg-id="902" tvg-name="CCTV2" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/2.png" group-title="央视",CCTV-2
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
+
+#EXTINF:-1 tvg-id="903" tvg-name="CCTV3" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/3.png" group-title="央视",CCTV-3
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
+
+#EXTINF:-1 tvg-id="904" tvg-name="CCTV4" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/4.png" group-title="央视",CCTV-4
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227373/index.m3u8
+
+#EXTINF:-1 tvg-id="905" tvg-name="CCTV5" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/5.png" group-title="央视",CCTV-5
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227491/index.m3u8
+
+#EXTINF:-1 tvg-id="906" tvg-name="CCTV-5P" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/5+.png" group-title="央视",CCTV-5+
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227493/index.m3u8
+
+#EXTINF:-1 tvg-id="907" tvg-name="CCTV6" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/6.png" group-title="央视",CCTV-6
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227431/index.m3u8
+
+#EXTINF:-1 tvg-id="908" tvg-name="CCTV7" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/7.png" group-title="央视",CCTV-7
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227429/index.m3u8
+
+#EXTINF:-1 tvg-id="909" tvg-name="CCTV8" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/8.png" group-title="央视",CCTV-8
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227427/index.m3u8
+
+#EXTINF:-1 tvg-id="910" tvg-name="CCTV9" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/9.png" group-title="央视",CCTV-9
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227425/index.m3u8
+
+#EXTINF:-1 tvg-id="911" tvg-name="CCTV10" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/10.png" group-title="央视",CCTV-10
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227375/index.m3u8
+
+#EXTINF:-1 tvg-id="912" tvg-name="CCTV11" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/11.png" group-title="央视",CCTV-11
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227922/index.m3u8
+
+#EXTINF:-1 tvg-id="913" tvg-name="CCTV12" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/12.png" group-title="央视",CCTV-12
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227377/index.m3u8
+
+#EXTINF:-1 tvg-id="914" tvg-name="CCTV13" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/13.png" group-title="央视",CCTV-13
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227926/index.m3u8
+
+#EXTINF:-1 tvg-id="915" tvg-name="CCTV14" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/14.png" group-title="央视",CCTV-少儿
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227379/index.m3u8
+
+#EXTINF:-1 tvg-id="916" tvg-name="CCTV15" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/15.png" group-title="央视",CCTV-15
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227933/index.m3u8
+
+#EXTINF:-1 tvg-id="918" tvg-name="CCTV17" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/17.png" group-title="央视",CCTV-17
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
+
+#EXTINF:-1 tvg-id="1084" tvg-name="CGTN英语" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/cgtn-e.png" group-title="央视",CGTN中国国际
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
+
+#EXTINF:-1 tvg-id="1020" tvg-name="湖南卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/hnws.png" group-title="卫视",湖南卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227369/index.m3u8
+
+#EXTINF:-1 tvg-id="1021" tvg-name="江苏卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/jsws.png" group-title="卫视",江苏卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227421/index.m3u8
+
+#EXTINF:-1 tvg-id="1022" tvg-name="浙江卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/zjws.png" group-title="卫视",浙江卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227351/index.m3u8
+
+#EXTINF:-1 tvg-id="1023" tvg-name="东方卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/dfws.png" group-title="卫视",东方卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227401/index.m3u8
+
+#EXTINF:-1 tvg-id="1024" tvg-name="北京卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/bjws.png" group-title="卫视",北京卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227397/index.m3u8
+
+#EXTINF:-1 tvg-id="1025" tvg-name="深圳卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/szws.png" group-title="卫视",深圳卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227419/index.m3u8
+
+#EXTINF:-1 tvg-id="1026" tvg-name="天津卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/tjws.png" group-title="卫视",天津卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227343/index.m3u8
+
+#EXTINF:-1 tvg-id="1027" tvg-name="湖北卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/hubei.png" group-title="卫视",湖北卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227367/index.m3u8
+
+#EXTINF:-1 tvg-id="1028" tvg-name="广东卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/gdws.png" group-title="卫视",广东卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227361/index.m3u8
+
+#EXTINF:-1 tvg-id="1029" tvg-name="山东卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/sdws.png" group-title="卫视",山东卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227365/index.m3u8
+
+#EXTINF:-1 tvg-id="1030" tvg-name="黑龙江卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/hljws.png" group-title="卫视",黑龙江卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227347/index.m3u8
+
+#EXTINF:-1 tvg-id="1031" tvg-name="重庆卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/cqws.png" group-title="卫视",重庆卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227359/index.m3u8
+
+#EXTINF:-1 tvg-id="1032" tvg-name="东南卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/dnws.png" group-title="卫视",东南卫视 
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227353/index.m3u8
+
+#EXTINF:-1 tvg-id="1033" tvg-name="江西卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/jxws.png" group-title="卫视",江西卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227355/index.m3u8
+
+#EXTINF:-1 tvg-id="1034" tvg-name="贵州卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/gzws.png" group-title="卫视",贵州卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227357/index.m3u8
+
+#EXTINF:-1 tvg-id="1035" tvg-name="河北卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/hebei.png" group-title="卫视",河北卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227399/index.m3u8
+
+#EXTINF:-1 tvg-id="1036" tvg-name="安徽卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/ahws.png" group-title="卫视",安徽卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227363/index.m3u8
+
+#EXTINF:-1 tvg-id="1037" tvg-name="辽宁卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/lnws.png" group-title="卫视",辽宁卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227345/index.m3u8
+
+#EXTINF:-1 tvg-id="1038" tvg-name="广西卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/gxws.png" group-title="卫视",广西卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227939/index.m3u8
+
+#EXTINF:-1 tvg-id="1039" tvg-name="吉林卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/jlws.png" group-title="卫视",吉林卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227935/index.m3u8
+
+#EXTINF:-1 tvg-id="1040" tvg-name="甘肃卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/gsws.png" group-title="卫视",甘肃卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227937/index.m3u8
+
+#EXTINF:-1 tvg-id="1041" tvg-name="河南卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/henan.png" group-title="卫视",河南卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227923/index.m3u8
+
+#EXTINF:-1 tvg-id="1042" tvg-name="云南卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/ynws.png" group-title="卫视",云南卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227133/index.m3u8
+
+#EXTINF:-1 tvg-id="1043" tvg-name="陕西卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/sxws.png" group-title="卫视",陕西卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227127/index.m3u8
+
+#EXTINF:-1 tvg-id="1044" tvg-name="山西卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/shanxi.png" group-title="卫视",山西卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227183/index.m3u8
+
+#EXTINF:-1 tvg-id="1045" tvg-name="内蒙古卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/nmgws.png" group-title="卫视",内蒙古卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227181/index.m3u8
+
+#EXTINF:-1 tvg-id="1046" tvg-name="青海卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/qhws.png" group-title="卫视",青海卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227123/index.m3u8
+
+#EXTINF:-1 tvg-id="1047" tvg-name="宁夏卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/nxws.png" group-title="卫视",宁夏卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227119/index.m3u8
+
+#EXTINF:-1 tvg-id="1048" tvg-name="西藏卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/xzws.png" group-title="卫视",西藏卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227131/index.m3u8
+
+#EXTINF:-1 tvg-id="1049" tvg-name="新疆卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/xjws.png" group-title="卫视",新疆卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227117/index.m3u8
+
+#EXTINF:-1 tvg-id="1050" tvg-name="兵团卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/btws.png" group-title="卫视",兵团卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227934/index.m3u8
+
+#EXTINF:-1 tvg-id="1051" tvg-name="海南卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/hainan.png" group-title="卫视",海南卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227139/index.m3u8
+
+#EXTINF:-1 tvg-id="1052" tvg-name="厦门卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/xmws.png" group-title="卫视",厦门卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227938/index.m3u8
+
+#EXTINF:-1 tvg-id="1053" tvg-name="三沙卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/sansha.png" group-title="卫视",三沙卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227943/index.m3u8
+
+#EXTINF:-1 tvg-id="1239" tvg-name="延边卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/20231115/1.png" group-title="卫视",延边卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227961/index.m3u8
+
+#EXTINF:-1 tvg-id="1054" tvg-name="山东教育卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/sdjy.jpeg" group-title="山东",山东教育卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227945/index.m3u8
+
+#EXTINF:-1 tvg-id="1056" tvg-name="四川卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/scws.png" group-title="卫视",四川卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227417/index.m3u8
+
+#EXTINF:-1 tvg-id="1057" tvg-name="SCTV2" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/2.png" group-title="四川",SCTV-2
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227415/index.m3u8
+
+#EXTINF:-1 tvg-id="1058" tvg-name="SCTV3" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/3.png" group-title="四川",SCTV-3
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
+
+#EXTINF:-1 tvg-id="1059" tvg-name="SCTV4" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/4.png" group-title="四川",SCTV-4
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227411/index.m3u8
+
+#EXTINF:-1 tvg-id="1060" tvg-name="SCTV5" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/5.png" group-title="四川",SCTV-5
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227409/index.m3u8
+
+#EXTINF:-1 tvg-id="1061" tvg-name="SCTV6" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/6.png" group-title="四川",SCTV-6
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227407/index.m3u8
+
+#EXTINF:-1 tvg-id="1062" tvg-name="SCTV-7" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/7.png" group-title="四川",SCTV-7
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227405/index.m3u8
+
+#EXTINF:-1 tvg-id="1063" tvg-name="SCTV8" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/8.png" group-title="四川",SCTV-8
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227936/index.m3u8
+
+#EXTINF:-1 tvg-id="1064" tvg-name="四川乡村" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/9.png" group-title="四川",四川乡村
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
+
+#EXTINF:-1 tvg-id="1065" tvg-name="峨眉电影" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/emeidy.png" group-title="四川",峨眉电影
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
+
+#EXTINF:-1 tvg-id="1066" tvg-name="康巴卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/kbws.png" group-title="卫视",康巴卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227629/index.m3u8
+
+#EXTINF:-1 tvg-id="1079" tvg-name="中国教育1台" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cetv-1.png" group-title="卫视",中国教育1台
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227339/index.m3u8
+
+#EXTINF:-1 tvg-id="1080" tvg-name="中国教育2台" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/cetv2.png" group-title="地方",中国教育2台
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227940/index.m3u8
+
+#EXTINF:-1 tvg-id="1081" tvg-name="中国教育4台" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cetv-4.png" group-title="地方",中国教育4台
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227337/index.m3u8
+
+#EXTINF:-1 tvg-id="1104" tvg-name="卡酷动画" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/btvkk.png" group-title="卫视",卡酷动画
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
+
+#EXTINF:-1 tvg-id="1105" tvg-name="金鹰卡通" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/jykt.png" group-title="卫视",金鹰卡通
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227149/index.m3u8
+
+#EXTINF:-1 tvg-id="1151" tvg-name="中国交通" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/zgjt.png" group-title="卫视",中国交通
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227499/index.m3u8
+
+#EXTINF:-1 tvg-id="1375" tvg-name="重庆汽摩" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cqtv/qm.png" group-title="重庆",重庆汽摩
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227968/index.m3u8
+
+#EXTINF:-1 tvg-id="1077" tvg-name="金鹰纪实" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/jyjs.png" group-title="湖南",金鹰纪实
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227371/index.m3u8
+
+#EXTINF:-1 tvg-id="1087" tvg-name="CDTV1" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cdtv/1.png" group-title="四川",CDTV-1
+http://119.4.91.10:80/PLTV/88888888/224/3221227495/1.m3u8
+
+#EXTINF:-1 tvg-id="1088" tvg-name="CDTV2" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cdtv/2.png" group-title="四川",CDTV-2经济
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227949/index.m3u8
+
+#EXTINF:-1 tvg-id="1089" tvg-name="CDTV3" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cdtv/3.png" group-title="四川",CDTV-3都市
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227950/index.m3u8
+
+#EXTINF:-1 tvg-id="1090" tvg-name="CDTV4" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cdtv/4.png" group-title="四川",CDTV-4影视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227951/index.m3u8
+
+#EXTINF:-1 tvg-id="1091" tvg-name="CDTV5" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cdtv/5.png" group-title="四川",CDTV-5
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227587/index.m3u8
+
+#EXTINF:-1 tvg-id="1092" tvg-name="CDTV6" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cdtv/6.png" group-title="四川",CDTV-6少儿
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227953/index.m3u8
+
+#EXTINF:-1 tvg-id="1094" tvg-name="每日购物" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cdtv/8.png" group-title="四川",CDTV-8每日购物
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227920/index.m3u8
+
+#EXTINF:-1 tvg-id="1403" tvg-name="茶频道" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/DOCUMENTARY-CHANNEL.jpg" group-title="四川",茶频道
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227349/index.m3u8
+
+#EXTINF:-1 tvg-id="5001" tvg-name="攀枝花新闻综合" tvg-logo=" "group-title="四川", 攀枝花新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-id="5002" tvg-name="泸州新闻综合" tvg-logo=" "group-title="四川", 泸州新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227529/index.m3u8
+#EXTINF:-1 tvg-id="5003" tvg-name="眉山综合" tvg-logo=" "group-title="四川", 眉山综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-id="5004" tvg-name="广安新闻综合" tvg-logo=" "group-title="四川", 广安新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227543/index.m3u8
+#EXTINF:-1 tvg-id="5005" tvg-name="德阳文旅科教" tvg-logo=" "group-title="四川", 德阳文旅科教
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227555/index.m3u8
+#EXTINF:-1 tvg-id="5006" tvg-name="巴中综合" tvg-logo=" "group-title="四川", 巴中综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227557/index.m3u8
+#EXTINF:-1 tvg-id="5007" tvg-name="南充综合" tvg-logo=" "group-title="四川", 南充综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227805/index.m3u8
+#EXTINF:-1 tvg-id="5008" tvg-name="内江综合" tvg-logo=" "group-title="四川", 内江综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227932/index.m3u8
+#EXTINF:-1 tvg-id="5009" tvg-name="遂宁综合" tvg-logo=" "group-title="四川", 遂宁综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-id="5010" tvg-name="乐山新闻综合" tvg-logo=" "group-title="四川", 乐山新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227537/index.m3u8
+#EXTINF:-1 tvg-id="5011" tvg-name="达州新闻综合" tvg-logo=" "group-title="四川", 达州新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227581/index.m3u8
+#EXTINF:-1 tvg-id="5012" tvg-name="绵阳新闻综合" tvg-logo=" "group-title="四川", 绵阳新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227521/index.m3u8
+#EXTINF:-1 tvg-id="5013" tvg-name="宜宾新闻综合" tvg-logo=" "group-title="四川", 宜宾新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-id="5014" tvg-name="广元综合" tvg-logo=" "group-title="四川", 广元综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227531/index.m3u8
+#EXTINF:-1 tvg-id="5015" tvg-name="雅安新闻综合" tvg-logo=" "group-title="四川", 雅安新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227559/index.m3u8
+#EXTINF:-1 tvg-id="5016" tvg-name="资阳新闻综合" tvg-logo=" "group-title="四川", 资阳新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-id="5017" tvg-name="自贡综合" tvg-logo=" "group-title="四川", 自贡综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227930/index.m3u8
+#EXTINF:-1 tvg-id="5018" tvg-name="甘孜综合" tvg-logo=" "group-title="四川", 甘孜综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227549/index.m3u8
+#EXTINF:-1 tvg-id="5019" tvg-name="阿坝新闻综合" tvg-logo=" "group-title="四川", 阿坝新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227561/index.m3u8
+#EXTINF:-1 tvg-id="5020" tvg-name="阿坝藏语频道" tvg-logo=" "group-title="四川", 阿坝藏语频道
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227563/index.m3u8
+#EXTINF:-1 tvg-id="5021" tvg-name="凉山新闻综合" tvg-logo=" "group-title="四川", 凉山新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227551/index.m3u8
+
+
