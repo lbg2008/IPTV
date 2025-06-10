@@ -31,12 +31,12 @@ http://192.168.2.2:4012/rtp/239.0.0.21:5140
 http://192.168.2.2:4012/rtp/239.0.0.188:5140
 #EXTINF:-1 tvg-id="918" tvg-name="CCTV17" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/17.png" group-title="央视",CCTV-17高清
 http://192.168.2.2:4012/rtp/239.0.0.152:5140
-#EXTINF:-1 tvg-id="1056" tvg-name="四川卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/scws.png" group-title="卫视",四川卫视高清
-http://192.168.2.2:4012/rtp/239.0.0.1:5140
 #EXTINF:-1 tvg-id="906" tvg-name="CCTV-5P" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/5+.png" group-title="央视",CCTV-5+高清
 http://192.168.2.2:4012/rtp/239.0.0.22:5140
 #EXTINF:-1 tvg-id="919" tvg-name="CCTV4K" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cctv/cctv4k.png" group-title="央视",CCTV-4K
 http://192.168.2.2:4012/rtp/239.0.0.184:5140
+#EXTINF:-1 tvg-id="1056" tvg-name="四川卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/scws.png" group-title="卫视",四川卫视高清
+http://192.168.2.2:4012/rtp/239.0.0.1:5140
 #EXTINF:-1 tvg-id="1057" tvg-name="SCTV2" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/2.png" group-title="四川",SCTV-2高清
 http://192.168.2.2:4012/rtp/239.0.0.2:5140
 #EXTINF:-1 tvg-id="1058" tvg-name="SCTV3" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/3.png" group-title="四川",SCTV-3高清
