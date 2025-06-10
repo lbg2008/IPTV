@@ -99,7 +99,7 @@ http://192.168.2.2:4012/rtp/239.0.0.185:5140
 http://192.168.2.2:4012/rtp/239.0.0.191:5140
 #EXTINF:-1 tvg-id="1040" tvg-name="甘肃卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/gsws.png" group-title="卫视",甘肃卫视高清
 http://192.168.2.2:4012/rtp/239.0.0.192:5140
-#EXTINF:-1 tvg-id="1151" tvg-name="中国交通" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/zgjt.png" group-title="卫视",中国交通
+#EXTINF:-1 tvg-id="1203" tvg-name="中国交通" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/zgjt.png" group-title="卫视",中国交通
 http://192.168.2.2:4012/rtp/239.0.0.143:5140
 #EXTINF:-1 tvg-id="1042" tvg-name="云南卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/ynws.png" group-title="卫视",云南卫视高清
 http://192.168.2.2:4012/rtp/239.0.0.74:5140
