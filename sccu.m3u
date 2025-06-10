@@ -181,7 +181,7 @@ http://192.168.2.2:4012/rtp/239.0.0.35:5140
 http://192.168.2.2:4012/rtp/239.0.0.36:5140
 #EXTINF:-1 tvg-id="1400" tvg-name="先锋乒羽" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/XFBY.png" group-title="四川",先锋乒羽
 http://192.168.2.2:4012/rtp/239.0.0.37:5140
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球高清" tvg-logo="" group-title="新增频道",魅力足球高清
+#EXTINF:-1 tvg-id="1307" tvg-name="魅力足球高清" tvg-logo="https://cdn.320888.xyz/tv-logo/new/魅力足球.png" group-title="新增频道",魅力足球高清
 http://192.168.2.2:4012/rtp/239.0.0.38:5140
 #EXTINF:-1 tvg-id="1402" tvg-name="快乐垂钓" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/KUAILECHUIDIAO.jpg" group-title="四川",快乐垂钓高清
 http://192.168.2.2:4012/rtp/239.0.0.40:5140
