@@ -161,7 +161,7 @@ http://192.168.2.2:4012/rtp/239.0.0.98:5140
 http://192.168.2.2:4012/rtp/239.0.0.197:5140
 #EXTINF:-1 tvg-id="1239" tvg-name="延边卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/20231115/1.png" group-title="卫视",延边卫视
 http://192.168.2.2:4012/rtp/239.0.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="西藏藏语频道" tvg-logo="" group-title="新增频道",西藏藏语频道
+#EXTINF:-1 tvg-id="" tvg-name="西藏藏语频道" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015010131466.jpg" group-title="新增频道",西藏藏语频道
 http://192.168.2.2:4012/rtp/239.0.0.105:5140
 #EXTINF:-1 tvg-id="1313" tvg-name="CHC家庭影院高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/CHC家庭影院.png" group-title="新增频道",CHC家庭影院
 http://192.168.2.2:4012/rtp/239.0.0.23:5140
