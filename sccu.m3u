@@ -136,9 +136,9 @@ http://192.168.2.2:4012/rtp/239.0.0.78:5140
 #EXTINF:-1 tvg-id="1046" tvg-name="青海卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/qhws.png" group-title="卫视",青海卫视
 http://192.168.2.2:4012/rtp/239.0.0.108:5140
 #EXTINF:-1 tvg-id="1047" tvg-name="宁夏卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/nxws.png" group-title="卫视",宁夏卫视
-http://192.168.2.2:4012/rtp/239.0.0.110:5140
+http://192.168.2.2:4012/rtp/239.0.0.35:5140
 #EXTINF:-1 tvg-id="1049" tvg-name="新疆卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/xjws.png" group-title="卫视",新疆卫视
-http://192.168.2.2:4012/rtp/239.0.0.111:5140
+http://192.168.2.2:4012/rtp/239.0.0.38:5140
 #EXTINF:-1 tvg-id="1045" tvg-name="内蒙古卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/nmgws.png" group-title="卫视",内蒙古卫视
 http://192.168.2.2:4012/rtp/239.0.0.79:5140
 #EXTINF:-1 tvg-id="1051" tvg-name="海南卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/hainan.png" group-title="卫视",海南卫视
@@ -171,32 +171,28 @@ http://192.168.2.2:4012/rtp/239.0.0.24:5140
 http://192.168.2.2:4012/rtp/239.0.0.25:5140
 #EXTINF:-1 tvg-id="1231" tvg-name="欢笑剧场4K" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20250403140622388.jpg" group-title="新增频道",欢笑剧场4K
 http://192.168.2.2:4012/rtp/239.0.0.201:5140
-#EXTINF:-1 tvg-id="" tvg-name="精彩影视高清" tvg-logo="" group-title="新增频道",精彩影视高清
+#EXTINF:-1 tvg-id="" tvg-name="精彩影视高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150824621.jpg" group-title="新增频道",精彩影视高清
 http://192.168.2.2:4012/rtp/239.0.0.26:5140
-#EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-logo="" group-title="新增频道",老故事
+#EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150844614.jpg" group-title="新增频道",老故事
 http://192.168.2.2:4012/rtp/239.0.0.27:5140
-#EXTINF:-1 tvg-id="" tvg-name="动漫秀场高清" tvg-logo="" group-title="新增频道",动漫秀场高清
+#EXTINF:-1 tvg-id="" tvg-name="动漫秀场高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150909567.jpg" group-title="新增频道",动漫秀场高清
 http://192.168.2.2:4012/rtp/239.0.0.28:5140
-#EXTINF:-1 tvg-id="" tvg-name="中学生" tvg-logo="" group-title="新增频道",中学生
+#EXTINF:-1 tvg-id="" tvg-name="中学生" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150935764.jpg" group-title="新增频道",中学生
 http://192.168.2.2:4012/rtp/239.0.0.29:5140
-#EXTINF:-1 tvg-id="" tvg-name="乐游高清" tvg-logo="" group-title="新增频道",乐游高清
+#EXTINF:-1 tvg-id="" tvg-name="乐游高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115152549416.jpg" group-title="新增频道",乐游高清
 http://192.168.2.2:4012/rtp/239.0.0.30:5140
-#EXTINF:-1 tvg-id="" tvg-name="书画" tvg-logo="" group-title="新增频道",书画
+#EXTINF:-1 tvg-id="" tvg-name="书画" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240116092924737.jpg" group-title="新增频道",书画
 http://192.168.2.2:4012/rtp/239.0.0.31:5140
-#EXTINF:-1 tvg-id="" tvg-name="金色学堂高清" tvg-logo="" group-title="新增频道",金色学堂高清
+#EXTINF:-1 tvg-id="" tvg-name="金色学堂高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150955944.jpg" group-title="新增频道",金色学堂高清
 http://192.168.2.2:4012/rtp/239.0.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="法治天地高清" tvg-logo="" group-title="新增频道",法治天地高清
+#EXTINF:-1 tvg-id="" tvg-name="法治天地高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115151006052.jpg" group-title="新增频道",法治天地高清
 http://192.168.2.2:4012/rtp/239.0.0.33:5140
 #EXTINF:-1 tvg-id="1125" tvg-name="财富天下" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/cftx.png" group-title="地方",财富天下
 http://192.168.2.2:4012/rtp/239.0.0.34:5140
-#EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="" group-title="新增频道",家庭理财
-http://192.168.2.2:4012/rtp/239.0.0.35:5140
 #EXTINF:-1 tvg-id="1403" tvg-name="茶频道" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/DOCUMENTARY-CHANNEL.jpg" group-title="四川",茶频道高清
 http://192.168.2.2:4012/rtp/239.0.0.36:5140
 #EXTINF:-1 tvg-id="1400" tvg-name="先锋乒羽" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/XFBY.png" group-title="四川",先锋乒羽
 http://192.168.2.2:4012/rtp/239.0.0.37:5140
-#EXTINF:-1 tvg-id="1307" tvg-name="魅力足球高清" tvg-logo="https://cdn.320888.xyz/tv-logo/new/魅力足球.png" group-title="新增频道",魅力足球高清
-http://192.168.2.2:4012/rtp/239.0.0.38:5140
 #EXTINF:-1 tvg-id="1402" tvg-name="快乐垂钓" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/KUAILECHUIDIAO.jpg" group-title="四川",快乐垂钓高清
 http://192.168.2.2:4012/rtp/239.0.0.40:5140
 #EXTINF:-1 tvg-id="1257" tvg-name="自贡综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015012934674.jpg" group-title="四川",自贡综合
