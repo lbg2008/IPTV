@@ -199,3 +199,77 @@ http://192.168.2.2:4012/rtp/239.0.0.37:5140
 http://192.168.2.2:4012/rtp/239.0.0.38:5140
 #EXTINF:-1 tvg-id="1402" tvg-name="快乐垂钓" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/new/KUAILECHUIDIAO.jpg" group-title="四川",快乐垂钓高清
 http://192.168.2.2:4012/rtp/239.0.0.40:5140
+#EXTINF:-1 tvg-id="10001" tvg-name="自贡综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015012934674.jpg" group-title="四川",自贡综合
+http://192.168.2.2:4012/rtp/239.0.0.123:5140
+#EXTINF:-1 tvg-id="10002" tvg-name="自贡文化生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095013087.png" group-title="四川",自贡文化生活
+http://192.168.2.2:4012/rtp/239.0.0.97:5140
+#EXTINF:-1 tvg-id="10003" tvg-name="攀枝花新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015015703890.jpg" group-title="四川",攀枝花新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.124:5140
+#EXTINF:-1 tvg-id="10004" tvg-name="泸州新闻" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015022203360.jpg" group-title="四川",泸州新闻
+http://192.168.2.2:4012/rtp/239.0.0.125:5140
+#EXTINF:-1 tvg-id="10005" tvg-name="泸州科教生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095230422.png" group-title="四川",泸州科教生活
+http://192.168.2.2:4012/rtp/239.0.0.86:5140
+#EXTINF:-1 tvg-id="10006" tvg-name="德阳公共" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20220822100730908.jpg" group-title="四川",德阳公共
+http://192.168.2.2:4012/rtp/239.0.0.138:5140
+#EXTINF:-1 tvg-id="10007" tvg-name="德阳新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095322165.png" group-title="四川",德阳新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.82:5140
+#EXTINF:-1 tvg-id="10008" tvg-name="绵阳综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015020909943.jpg" group-title="四川",绵阳综合
+http://192.168.2.2:4012/rtp/239.0.0.121:5140
+#EXTINF:-1 tvg-id="10009" tvg-name="绵阳科教生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095157034.png" group-title="四川",绵阳科教生活
+http://192.168.2.2:4012/rtp/239.0.0.88:5140
+#EXTINF:-1 tvg-id="10010" tvg-name="广元综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015022436016.jpg" group-title="四川",广元综合
+http://192.168.2.2:4012/rtp/239.0.0.126:5140
+#EXTINF:-1 tvg-id="10011" tvg-name="广元文化生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095254718.png" group-title="四川",广元文化生活
+http://192.168.2.2:4012/rtp/239.0.0.84:5140
+#EXTINF:-1 tvg-id="10012" tvg-name="遂宁新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015015106963.jpg" group-title="四川",遂宁新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.127:5140
+#EXTINF:-1 tvg-id="10013" tvg-name="遂宁文化生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095108677.png" group-title="四川",遂宁文化生活
+http://192.168.2.2:4012/rtp/239.0.0.92:5140
+#EXTINF:-1 tvg-id="10014" tvg-name="内江综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015015949088.jpg" group-title="四川",内江综合
+http://192.168.2.2:4012/rtp/239.0.0.128:5140
+#EXTINF:-1 tvg-id="10015" tvg-name="内江科教生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095132564.png" group-title="四川",内江科教生活
+http://192.168.2.2:4012/rtp/239.0.0.90:5140
+#EXTINF:-1 tvg-id="10016" tvg-name="乐山新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015022314139.jpg" group-title="四川",乐山新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.129:5140
+#EXTINF:-1 tvg-id="10017" tvg-name="乐山文旅生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095242651.png" group-title="四川",乐山文旅生活
+http://192.168.2.2:4012/rtp/239.0.0.85:5140
+#EXTINF:-1 tvg-id="10018" tvg-name="南充综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015020726896.jpg" group-title="四川",南充综合
+http://192.168.2.2:4012/rtp/239.0.0.176:5140
+#EXTINF:-1 tvg-id="10019" tvg-name="南充科教生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095145210.png" group-title="四川",南充科教生活
+http://192.168.2.2:4012/rtp/239.0.0.89:5140
+#EXTINF:-1 tvg-id="10020" tvg-name="眉山综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015021049759.jpg" group-title="四川",眉山综合
+http://192.168.2.2:4012/rtp/239.0.0.130:5140
+#EXTINF:-1 tvg-id="10021" tvg-name="眉山文旅乡村" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095214395.png" group-title="四川",眉山文旅乡村
+http://192.168.2.2:4012/rtp/239.0.0.87:5140
+#EXTINF:-1 tvg-id="10022" tvg-name="宜宾新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015013736586.jpg" group-title="四川",宜宾新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.131:5140
+#EXTINF:-1 tvg-id="10023" tvg-name="宜宾科教文旅" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095041652.png" group-title="四川",宜宾科教文旅
+http://192.168.2.2:4012/rtp/239.0.0.94:5140
+#EXTINF:-1 tvg-id="10024" tvg-name="广安新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015022550361.jpg" group-title="四川",广安新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.132:5140
+#EXTINF:-1 tvg-id="10025" tvg-name="广安文旅乡村" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095307798.png" group-title="四川",广安文旅乡村
+http://192.168.2.2:4012/rtp/239.0.0.83:5140
+#EXTINF:-1 tvg-id="10026" tvg-name="达州新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015024039676.jpg" group-title="四川",达州新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.133:5140
+#EXTINF:-1 tvg-id="10027" tvg-name="达州文化生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095336610.png" group-title="四川",达州文化生活
+http://192.168.2.2:4012/rtp/239.0.0.81:5140
+#EXTINF:-1 tvg-id="10028" tvg-name="雅安新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015014608932.jpg" group-title="四川",雅安新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.140:5140
+#EXTINF:-1 tvg-id="10029" tvg-name="雅安文化生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095054459.png" group-title="四川",雅安文化生活
+http://192.168.2.2:4012/rtp/239.0.0.93:5140
+#EXTINF:-1 tvg-id="10030" tvg-name="巴中综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015023911339.jpg" group-title="四川",巴中综合
+http://192.168.2.2:4012/rtp/239.0.0.139:5140
+#EXTINF:-1 tvg-id="10031" tvg-name="巴中文旅生活" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240930095348337.png" group-title="四川",巴中文旅生活
+http://192.168.2.2:4012/rtp/239.0.0.80:5140
+#EXTINF:-1 tvg-id="10032" tvg-name="资阳新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015013528191.jpg" group-title="四川",资阳新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.134:5140
+#EXTINF:-1 tvg-id="10033" tvg-name="阿坝新闻综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015024143286.jpg" group-title="四川",阿坝新闻综合
+http://192.168.2.2:4012/rtp/239.0.0.141:5140
+#EXTINF:-1 tvg-id="10034" tvg-name="阿坝藏语图文" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015024254627.jpg" group-title="四川",阿坝藏语图文
+http://192.168.2.2:4012/rtp/239.0.0.142:5140
+#EXTINF:-1 tvg-id="10035" tvg-name="甘孜综合" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015022705601.jpg" group-title="四川",甘孜综合
+http://192.168.2.2:4012/rtp/239.0.0.135:5140
+#EXTINF:-1 tvg-id="10036" tvg-name="凉山新闻综合高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015012321091.jpg" group-title="四川",凉山新闻综合高清
+http://192.168.2.2:4012/rtp/239.0.0.136:5140
+#EXTINF:-1 tvg-id="10037" tvg-name="凉山彝语综合高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015012648630.jpg" group-title="四川",凉山彝语综合高清
+http://192.168.2.2:4012/rtp/239.0.0.137:5140
