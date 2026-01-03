@@ -169,7 +169,7 @@ http://192.168.2.2:4012/rtp/239.0.0.23:5140
 http://192.168.2.2:4012/rtp/239.0.0.24:5140
 #EXTINF:-1 tvg-id="1311" tvg-name="CHC高清影院高清" tvg-logo="https://cdn.320888.xyz/tv-logo/new/CHC高清电影.png" group-title="新增频道",CHC高清影院
 http://192.168.2.2:4012/rtp/239.0.0.25:5140
-#EXTINF:-1 tvg-id="1231" tvg-name="欢笑剧场4K" tvg-logo="" group-title="新增频道",欢笑剧场4K
+#EXTINF:-1 tvg-id="1231" tvg-name="欢笑剧场4K" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20250403140622388.jpg" group-title="新增频道",欢笑剧场4K
 http://192.168.2.2:4012/rtp/239.0.0.201:5140
 #EXTINF:-1 tvg-id="" tvg-name="精彩影视高清" tvg-logo="" group-title="新增频道",精彩影视高清
 http://192.168.2.2:4012/rtp/239.0.0.26:5140
