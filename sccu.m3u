@@ -177,7 +177,7 @@ http://192.168.2.2:4012/rtp/239.0.0.25:5140
 http://192.168.2.2:4012/rtp/239.0.0.201:5140
 #EXTINF:-1 tvg-id="" tvg-name="精彩影视高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150824621.jpg" group-title="新增频道",精彩影视高清
 http://192.168.2.2:4012/rtp/239.0.0.26:5140
-#EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150844614.jpg" group-title="新增频道",老故事
+#EXTINF:-1 tvg-id="1298" tvg-name="老故事" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150844614.jpg" group-title="新增频道",老故事
 http://192.168.2.2:4012/rtp/239.0.0.27:5140
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场高清" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20240115150909567.jpg" group-title="新增频道",动漫秀场高清
 http://192.168.2.2:4012/rtp/239.0.0.28:5140
