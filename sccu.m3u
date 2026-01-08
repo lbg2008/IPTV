@@ -147,7 +147,7 @@ http://192.168.2.2:4012/rtp/239.0.0.79:5140
 http://192.168.2.2:4012/rtp/239.0.0.100:5140
 #EXTINF:-1 tvg-id="1048" tvg-name="西藏卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/xzws.png" group-title="卫视",西藏卫视
 http://192.168.2.2:4012/rtp/239.0.0.104:5140
-#EXTINF:-1 tvg-id="1049" tvg-name="西藏藏语频道" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015010131466.jpg" group-title="卫视",西藏藏语频道
+#EXTINF:-1 tvg-id="1297" tvg-name="西藏藏语频道" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015010131466.jpg" group-title="卫视",西藏藏语频道
 http://192.168.2.2:4012/rtp/239.0.0.105:5140
 #EXTINF:-1 tvg-id="1417" tvg-name="" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/adws.jpeg" group-title="青海",安多卫视
 http://192.168.2.2:4012/rtp/239.0.0.109:5140
