@@ -49,8 +49,10 @@ http://192.168.2.2:4012/rtp/239.0.0.5:5140
 http://192.168.2.2:4012/rtp/239.0.0.6:5140
 #EXTINF:-1 tvg-id="1062" tvg-name="SCTV-7" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/7.png" group-title="四川",SCTV-7高清
 http://192.168.2.2:4012/rtp/239.0.0.7:5140
-#EXTINF:-1 tvg-id="1063" tvg-name="SCTV8" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/8.png" group-title="四川",SCTV-9高清
+#EXTINF:-1 tvg-id="1063" tvg-name="SCTV8" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/8.png" group-title="四川",四川科教
 http://192.168.2.2:4012/rtp/239.0.0.186:5140
+#EXTINF:-1 tvg-id="1064" tvg-name="四川乡村 HD" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015042735531.jpg" group-title="四川",四川乡村 HD
+http://192.168.2.2:4012/rtp/239.0.0.8:5140
 #EXTINF:-1 tvg-id="1065" tvg-name="峨眉电影" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/emeidy.png" group-title="四川",峨眉电影高清
 http://192.168.2.2:4012/rtp/239.0.0.9:5140
 #EXTINF:-1 tvg-id="1066" tvg-name="康巴卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/sctv/kbws.png" group-title="卫视",康巴卫视高清
@@ -145,6 +147,8 @@ http://192.168.2.2:4012/rtp/239.0.0.79:5140
 http://192.168.2.2:4012/rtp/239.0.0.100:5140
 #EXTINF:-1 tvg-id="1048" tvg-name="西藏卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/xzws.png" group-title="卫视",西藏卫视
 http://192.168.2.2:4012/rtp/239.0.0.104:5140
+#EXTINF:-1 tvg-id="1049" tvg-name="西藏藏语频道" tvg-logo="https://https://alist.320888.xyz/d/Oracle/App/tv-logo/sccu/20201015010131466.jpg" group-title="卫视",西藏藏语频道
+http://192.168.2.2:4012/rtp/239.0.0.105:5140
 #EXTINF:-1 tvg-id="1417" tvg-name="" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/adws.jpeg" group-title="青海",安多卫视
 http://192.168.2.2:4012/rtp/239.0.0.109:5140
 #EXTINF:-1 tvg-id="1050" tvg-name="兵团卫视" tvg-logo="https://alist.320888.xyz/d/Oracle/App/tv-logo/weishi/btws.png" group-title="卫视",兵团卫视
